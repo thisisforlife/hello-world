@@ -1,5 +1,4 @@
 # hello-world
-just another one...
 
 To all of you out there,
 
